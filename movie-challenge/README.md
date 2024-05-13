@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+...
+
+## Figma
+
+Interatividade: foi adicionada aos wireframes, demonstrando o comportamento dos componentes e as interações do usuário.
+
+[Protótipos](https://www.figma.com/proto/cRrFUIe6o4u3h77w2u49Iv/Untitled?type=design&node-id=4-250&t=Vjegc1sI6ES6fIoB-0&scaling=min-zoom&page-id=2%3A354&starting-point-node-id=4%3A250)
