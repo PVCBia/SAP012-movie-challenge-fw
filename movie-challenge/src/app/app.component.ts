@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { enviroment } from 'src/environments/environment';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'movie-challenge';
+  apiUrl: string | undefined;
+
+  constructor() {
+    this.apiUrl = enviroment.TOKEN_API;
+    console.log(this.apiUrl);
+  }
 }
